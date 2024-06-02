@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dr.mac/Library/Developer/Xcode/DerivedData/CustomNetworkSDK-ekryzmvtpwvqzkalctockglnmiei/Build/Intermediates.noindex/ArchiveIntermediates/CustomNetworkSDK/InstallationBuildProductsLocation/Library/Frameworks/CustomNetworkSDK.framework/CustomNetworkSDK'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x2E66D, size: 0x8, addend: 0x0, symName: _CustomNetworkSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x4520, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2E6A2, size: 0x8, addend: 0x0, symName: _CustomNetworkSDKVersionNumber, symObjAddr: 0x40, symBinAddr: 0x4560, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x2E707, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerC6sharedACvpZ', symObjAddr: 0x2918, symBinAddr: 0xC158, symSize: 0x0 }
+  - { offsetInCU: 0xE4, offset: 0x2E79C, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x28 }
+  - { offsetInCU: 0x125, offset: 0x2E7DD, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerC9fetchData4from10completiony10Foundation3URLV_ys6ResultOyAG0F0Vs5Error_pGctFyAMSg_So13NSURLResponseCSgsAN_pSgtYbcfU_TA', symObjAddr: 0x1AC, symBinAddr: 0x41AC, symSize: 0xD8 }
+  - { offsetInCU: 0x1D6, offset: 0x2E88E, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVSgSo13NSURLResponseCSgs5Error_pSgIeghggg_So6NSDataCSgAGSo7NSErrorCSgIeyBhyyy_TR', symObjAddr: 0x284, symBinAddr: 0x4284, symSize: 0xB0 }
+  - { offsetInCU: 0x1EE, offset: 0x2E8A6, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x334, symBinAddr: 0x4334, symSize: 0x10 }
+  - { offsetInCU: 0x202, offset: 0x2E8BA, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x344, symBinAddr: 0x4344, symSize: 0x8 }
+  - { offsetInCU: 0x216, offset: 0x2E8CE, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerCMa', symObjAddr: 0x364, symBinAddr: 0x4364, symSize: 0x20 }
+  - { offsetInCU: 0x22A, offset: 0x2E8E2, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVSgWOe', symObjAddr: 0x39C, symBinAddr: 0x439C, symSize: 0x14 }
+  - { offsetInCU: 0x23E, offset: 0x2E8F6, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOWOe', symObjAddr: 0x3B0, symBinAddr: 0x43B0, symSize: 0x44 }
+  - { offsetInCU: 0x3E0, offset: 0x2EA98, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerC6sharedACvgZ', symObjAddr: 0x28, symBinAddr: 0x4028, symSize: 0x40 }
+  - { offsetInCU: 0x41F, offset: 0x2EAD7, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerC9fetchData4from10completiony10Foundation3URLV_ys6ResultOyAG0F0Vs5Error_pGctF', symObjAddr: 0x68, symBinAddr: 0x4068, symSize: 0x120 }
+  - { offsetInCU: 0x51F, offset: 0x2EBD7, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerCfd', symObjAddr: 0x34C, symBinAddr: 0x434C, symSize: 0x8 }
+  - { offsetInCU: 0x544, offset: 0x2EBFC, size: 0x8, addend: 0x0, symName: '_$s16CustomNetworkSDK0B7ManagerCfD', symObjAddr: 0x354, symBinAddr: 0x4354, symSize: 0x10 }
+...
